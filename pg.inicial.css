@@ -1,0 +1,280 @@
+h1{
+    color: #89481c;
+    font-family: "Brush Script MT";
+    font-size: 45px;
+}
+
+body{
+    background-color:burlywood;
+    text-align: center;
+    background-image: url("ImgRenascimento/ff.jpg");
+}
+
+h2{
+    color: #89481c;
+    font-family: Brush Script MT;
+    font-size: 45px;
+}
+
+p{
+    font-family: Bahnschrift;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.artistas{
+    font-size: 50px;
+}
+
+.obras {
+    font-size: 25px;
+}
+
+.caracterizou{
+    font-family: Bahnschrift;
+}
+
+ul{
+    font-family: Bahnschrift;
+    list-style: none;
+
+}
+
+.maneirismo{
+    color:#89481c ;
+}
+
+.principais{
+    font-family: Bahnschrift;
+
+
+}
+
+.card {
+    background-color: #ffebcd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(239, 239, 239, 0.63);
+    display: inline-block;
+    margin: 10px;
+    transition: transform;
+}
+
+
+
+.principaisManei {
+    height: 300px;
+    width: 300px;
+}
+
+
+.caraDiv {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: justify;
+    gap: 45px;
+}
+
+.caraDiv h3{
+    text-align: center;
+}
+
+.caraDiv .texto1,
+.caraDiv .texto2{
+    height: 460px;
+}
+
+
+
+h4{
+    color: #89481c;
+    font-family: Brush Script MT;
+    font-size: 30px;
+}
+
+.princArt{
+    background-color: blanchedalmond;
+    border-radius: 100px;
+    padding: 30px;
+    width: 600px;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    justify-content: center;
+}
+
+.princArt h4{
+    margin: 2px;
+}
+
+.pai{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.barroco{
+    color: #89481c;
+    font-family: "Brush Script MT";
+    font-size: 45px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.exuberancia .imagem2{
+    width: 100%;
+    box-shadow: 0 13px 10px rgba(8,0,0,0.8);
+    border-radius: 63px;
+}
+
+.caravaggio{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bernini{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 20px;
+}
+
+
+
+.imgBarroco {
+    height: 200px;
+    max-width: 200px;
+}
+
+h2{
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 35px;
+}
+
+.TemasArte{
+    height: 300px;
+    width: 300px;
+}
+
+.fotos{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fotos img{
+    max-height: 350px;
+    height: 300px;
+    width: 350px;
+    max-width: 300px;
+}
+
+.fotosRafael2 img{
+    max-height: 300px;
+    height: 300px;
+}
+.fotos2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fotos2 img{
+    max-height: 350px;
+    height: 300px;
+    width: 350px;
+    max-width: 300px;
+}
+
+.artista img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+
+.Fundo{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+.fundoRodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+.efeitoIMG{
+    width: 100%;
+}
+
+.principaisObras{
+    width: 100%;
+}
+
+.Nos{
+    display: flex;
+    text-align: center;
+}
+
+.bntHome {
+    background-color: #dab375;
+    color: #FFFFFF;
+    border-radius: 50px;
+    padding: 5px 10px;
+}
+
+.imgInicial{
+    width: 100%;
+}
+
+.antonie{
+    box-shadow: 0 13px 10px rgba(8,0,0,0.8);
+    border-radius: 63px;
+    height: 214px;
+    width: 236px;
+}
+
+.guilherme{
+    box-shadow: 0 13px 10px rgba(8,0,0,0.8);
+    border-radius: 63px;
+    height: 214px;
+    width: 236px;
+}
+
+.chippendale{
+    box-shadow: 0 13px 10px rgba(8,0,0,0.8);
+    border-radius: 63px;
+    height: 214px;
+    width: 236px;
+}
